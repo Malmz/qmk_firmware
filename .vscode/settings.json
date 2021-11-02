@@ -28,5 +28,6 @@
 	    "editor.formatOnSave": false
     },
     "editor.formatOnSave": false,
-    "makefile.buildLog": ".vscode/build.log"
+    "makefile.buildLog": ".vscode/build.log",
+    "cmake.configureOnOpen": true
 }

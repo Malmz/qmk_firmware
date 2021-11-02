@@ -1,0 +1,22 @@
+#define HGUI_A LGUI_T(SE_A)
+#define HALT_R LALT_T(SE_R)
+#define HAGR_X ALGR_T(SE_X)
+#define HCTL_S LCTL_T(SE_S)
+#define HSFT_T LSFT_T(SE_T)
+
+#define HSFT_N RSFT_T(SE_N)
+#define HCTL_E RCTL_T(SE_E)
+#define HAGR_DO ALGR_T(SE_DOT)
+#define HALT_I LALT_T(SE_I)
+#define HGUI_O RGUI_T(SE_O)
+
+#define LFUN_T LT(FUN, KC_TAB)
+#define LSYM_T LT(SYM, KC_DEL)
+#define LNAV_T LT(NAV, KC_ENT)
+#define LMED_T LT(MEDIA, KC_ALGR)
+
+#define MZ_REDO C(SE_Y)
+#define MZ_PSTE C(SE_V)
+#define MZ_COPY C(SE_C)
+#define MZ_CUT  C(SE_X)
+#define MZ_UNDO C(SE_Z)
